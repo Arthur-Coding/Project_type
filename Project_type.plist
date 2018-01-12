@@ -3,18 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>OC</key>
-	<dict>
-		<key>type</key>
-		<string>基础</string>
-		<key>url</key>
-		<string>https://github.com/Arthur-Coding/BaseProject.git</string>
-	</dict>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>基础</string>
+			<key>url</key>
+			<string>https://github.com/Arthur-Coding/BaseProject.git</string>
+		</dict>
+	</array>
 	<key>Swift</key>
-	<dict>
-		<key>type</key>
-		<string>普通</string>
-		<key>url</key>
-		<string>https://github.com/Arthur-Coding/BaseProject_Swift.git</string>
-	</dict>
+	<array>
+		<dict>
+			<key>type</key>
+			<string>基础</string>
+			<key>url</key>
+			<string>https://github.com/Arthur-Coding/BaseProject_Swift.git</string>
+		</dict>
+	</array>
 </dict>
 </plist>
